@@ -1,0 +1,13 @@
+{
+    "name": "smart-dashboard",
+    "version": "1.0.0",
+    "description": "PWA приложение для управления задачами и привычками",
+    "main": "src/main.js",
+    "scripts": {
+        "start": "npx serve .",
+        "dev": "npx serve . --port 3000"
+    },
+    "keywords": ["pwa", "dashboard", "tasks", "habits"],
+    "author": "",
+    "license": "MIT"
+}
